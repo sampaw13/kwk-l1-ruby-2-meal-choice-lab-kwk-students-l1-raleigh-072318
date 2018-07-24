@@ -17,7 +17,7 @@ height = gets
 
 
 def askAndAnswer(my_name, birthdate, birthplace, height)
-  puts 'Hi, my name is #{my_name}. I was born in #{birthplace}. I was born on #{birthdate}. I am #{Height} tall.'
+  puts 'Hi, my name is  #{my_name} . I was born in #{birthplace}. I was born on #{birthdate}. I am #{Height} tall.'
 end 
 
 askAndAnswer(my_name, birthdate, birthplace, height)
