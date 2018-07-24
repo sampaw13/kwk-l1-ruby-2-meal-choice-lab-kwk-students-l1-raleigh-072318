@@ -14,7 +14,7 @@ def breakfast(breakfast= "scrambled eggs")
 end
 
 def lunch(lunch= 'taco')
-  "Noon is the best time for #{lunch}!"
+  'Noon is the best time for #{lunch}!"
 end
 
 def dinner(dinner= "chicken")
