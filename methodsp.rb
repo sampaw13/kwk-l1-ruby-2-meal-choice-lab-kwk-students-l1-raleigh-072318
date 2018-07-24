@@ -16,4 +16,4 @@ puts 'How tall are you?'
 height = gets
 
 
-puts my_name + ' birthplace ' + ' birthdate ' + ' and is '
+puts ' my_name ' + ' birthplace ' + ' birthdate ' + ' and is '
