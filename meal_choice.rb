@@ -1,4 +1,3 @@
-# Here's an example of a 'snacks' method that returns the meal choice passed in to it and defaults to "cheetos" if nothing is passed in.
 
 
 breakfast = "frosted flakes"
