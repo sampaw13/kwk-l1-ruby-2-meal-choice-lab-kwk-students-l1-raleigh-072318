@@ -8,9 +8,8 @@ lunch = "grilled cheese"
 dinner = "salmon"
 
 def lunchoptions(breakfast, lunch, dinner) 
-  puts "Morning is the best time for #{food}! Noon is the best time for #{food}! Nighttime is the best time for #{food}!"
+  puts "Morning is the best time for #{breakfast}! Noon is the best time for #{lunch}! Nighttime is the best time for #{dinner}!"
 end
-lunchoptions(breakfast, lunch, dinner)
 
 
 def breakfast(food= "scrambled eggs")
