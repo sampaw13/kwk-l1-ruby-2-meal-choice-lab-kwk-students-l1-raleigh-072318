@@ -14,6 +14,7 @@ lunch = "grilled cheese"
 dinner = "salmon"
 
 def lunch_options(breakfast, lunch, dinner) 
+  puts "Morning is the best time for #{food}! Noon is the best time for #{food}! Nighttime is the best time for #{food}!"
 
 
 
