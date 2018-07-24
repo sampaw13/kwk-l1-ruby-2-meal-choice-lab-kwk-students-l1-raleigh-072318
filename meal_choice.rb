@@ -12,6 +12,7 @@ dinner = "salmon"
  puts "Nighttime is the best time for #{dinner}!"
 dinner = gets
 
+
 def lunchoptions(breakfast, lunch, dinner) 
   "Morning is the best time for #{breakfast}! Noon is the best time for #{lunch}! Nighttime is the best time for #{dinner}!"
 end
