@@ -9,14 +9,14 @@ def lunchoptions(breakfast, lunch, dinner)
 end
 
 
-def breakfast(food= "scrambled eggs")
-  "Morning is the right time for #{food}!"
+def breakfast(breakfast= "scrambled eggs")
+  "Morning is the right time for #{breakfast!"
 end
 
-def lunch(food= 'taco')
-  "Noon is the best time for #{food}!"
+def lunch(lunch= 'taco')
+  "Noon is the best time for #{lunch}!"
 end
 
-def dinner(food= "chicken")
-  "Nighttime is the best time for #{food}!"
+def dinner(dinner= "chicken")
+  "Nighttime is the best time for #{dinner}!"
 end
