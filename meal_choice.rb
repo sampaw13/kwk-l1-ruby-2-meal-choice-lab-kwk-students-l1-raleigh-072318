@@ -9,6 +9,12 @@ end
 puts snacks("Swedish fish")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
+breakfast = "frosted flakes"
+lunch = "grilled cheese"
+dinner = "salmon"
+
+
+
 def breakfast(food= "scrambled eggs")
   "Morning is the right time for #{food}!"
 end
@@ -22,7 +28,7 @@ def dinner(food= "chicken")
 end
 
   def 
-puts breakfast("bacon")
+
 
 
 
