@@ -1,5 +1,3 @@
-
-
 breakfast = "frosted flakes"
 lunch = "grilled cheese"
 dinner = "salmon"
