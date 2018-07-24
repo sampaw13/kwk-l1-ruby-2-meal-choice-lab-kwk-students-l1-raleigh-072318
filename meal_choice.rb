@@ -10,7 +10,7 @@ dinner = "salmon"
 def lunchoptions(breakfast, lunch, dinner) 
   puts "Morning is the best time for #{food}! Noon is the best time for #{food}! Nighttime is the best time for #{food}!"
 end
-lunchoptions
+lunchoptions(breakfast, lunch, dinner)
 
 
 def breakfast(food= "scrambled eggs")
