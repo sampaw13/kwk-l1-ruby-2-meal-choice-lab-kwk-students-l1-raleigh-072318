@@ -3,19 +3,14 @@ def snacks(food="Cheetos")
   "Any time, is the right time for #{food}!"
 end
 
-
-
-# Call the methods with puts and your own arguments here. Like this:
-puts snacks("Swedish fish")
-## This returns "Any time, is the right time for Sweedish fish!"
-
 breakfast = "frosted flakes"
 lunch = "grilled cheese"
 dinner = "salmon"
 
-def lunch_options(breakfast, lunch, dinner) 
+def lunchoptions(breakfast, lunch, dinner) 
   puts "Morning is the best time for #{food}! Noon is the best time for #{food}! Nighttime is the best time for #{food}!"
-
+end
+lunchoptions
 
 
 def breakfast(food= "scrambled eggs")
@@ -30,7 +25,7 @@ def dinner(food= "chicken")
   "Nighttime is the best time for #{food}!"
 end
 
-  def 
+  
 
 
 
