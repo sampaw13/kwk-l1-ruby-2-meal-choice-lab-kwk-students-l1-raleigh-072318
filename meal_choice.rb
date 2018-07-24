@@ -20,3 +20,5 @@ end
 def dinner(dinner= "chicken")
   "Nighttime is the best time for #{dinner}!"
 end
+
+lunchoptions(breakfast, lunch, dinner)
